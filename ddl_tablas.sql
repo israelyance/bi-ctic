@@ -13,3 +13,6 @@ nombre varchar2(60)
 create table stores (
 nombre varchar2(30)
 )
+
+commit;
+exit
