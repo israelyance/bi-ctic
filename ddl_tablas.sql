@@ -9,3 +9,7 @@ nombre varchar2(30)
 creatre table products (
 nombre varchar2(60)
 )
+
+create table stores (
+nombre varchar2(30)
+)
