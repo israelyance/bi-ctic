@@ -1,1 +1,3 @@
-version 0.1
+-- cracion de las tablas del modelo de datos (version 0.1)
+-- autor: israel
+-- fecha: 09/08
